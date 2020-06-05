@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{48C9EBAA-6A2D-446C-8DDD-B057C6F79CA9}|Default">
+  <MonoDevelop.Ide.ItemProperties.KitchenTimer AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="pixel_3a" PreferredExecutionTarget="Android.pixel_3a_xl_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KitchenTimer/MainActivity.cs">
+    <Files>
+      <File FileName="KitchenTimer/MainActivity.cs" Line="35" Column="45" />
+      <File FileName="KitchenTimer/Resources/layout/activity_main.xml" />
+      <File FileName="KitchenTimer/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KitchenTimer" expanded="True">
+            <Node name="KitchenTimer" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="spec" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
